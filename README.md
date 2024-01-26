@@ -17,8 +17,8 @@ Analytical Focus: The analysis centers around deciphering customer buying behavi
 
 Comparison to Previous Studies:
 
-    While leveraging a Kaggle.com dataset, this study differentiates itself by employing Big Data analysis using Hive.
-    In contrast to a 2020 study utilizing Python 3 libraries, our project utilizes Hadoop and Beeline for data manipulation and analysis, expanding the analytical scope.
+While leveraging a Kaggle.com dataset, this study differentiates itself by employing Big Data analysis using Hive.
+In contrast to a 2020 study utilizing Python 3 libraries, our project utilizes Hadoop and Beeline for data manipulation and analysis, expanding the analytical scope.
 
 **Specifications**
 
@@ -32,33 +32,34 @@ Scalability: Asserts applicability to datasets ranging from 100 GB+ to as small 
 
 Data Handling Process
 
-    Raw dataset extraction from Kaggle.
-    Data manipulation using Hadoop and Beeline.
-    Further analysis through Excel, Tableau, and Power BI.
-    Systematic visualization creation is outlined in the flowchart.
-Data Cleaning
+-Raw dataset extraction from Kaggle.
+-Data manipulation using Hadoop and Beeline.
+-Further analysis through Excel, Tableau, and Power BI.
+-Systematic visualization creation is outlined in the flowchart.
+-Data Cleaning
 
 Critical Step: Data cleaning ensures accuracy.
 
 Techniques Applied:
 
-    Regular expressions.
-    Select statements.
-    Exported cleaned data for subsequent analysis.
+-Regular expressions.
+-Select statements.
+-Exported cleaned data for subsequent analysis.
 
 Analysis and Visualization
 
 Tools Used:
 
-    Excel, Power BI, and Tableau.
+-Excel, Power BI, and Tableau.
 
 Visualizations Employed:
 
-    Pie charts, bar graphs, line graphs, and dotted graphs.
+-Pie charts, bar graphs, line graphs, and dotted graphs.
 
 Insights Uncovered:
 
-    Popular brands, categories, and user preferences were identified.
+-Popular brands, categories, and user preferences were identified.
+
 **Conclusion**
 
 Key Findings:
